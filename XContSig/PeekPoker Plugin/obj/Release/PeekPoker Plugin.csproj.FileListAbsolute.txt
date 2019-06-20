@@ -1,0 +1,9 @@
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\PeekPoker Plugin\bin\Release\XBX Content Tool - Plugin.dll
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\PeekPoker Plugin\bin\Release\XBX Content Tool - Plugin.pdb
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\PeekPoker Plugin\bin\Release\PeekPoker.Interface.dll
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\PeekPoker Plugin\obj\Release\PeekPoker Plugin.csprojResolveAssemblyReference.cache
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\PeekPoker Plugin\obj\Release\Plugin.mainForm.resources
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\PeekPoker Plugin\obj\Release\Plugin.Properties.Resources.resources
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\PeekPoker Plugin\obj\Release\PeekPoker Plugin.csproj.GenerateResource.Cache
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\PeekPoker Plugin\obj\Release\XBX Content Tool - Plugin.dll
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\PeekPoker Plugin\obj\Release\XBX Content Tool - Plugin.pdb

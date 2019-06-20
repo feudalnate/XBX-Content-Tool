@@ -1,0 +1,9 @@
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\XBX Content Tool\obj\Release\XBXContentTool.keyForm.resources
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\XBX Content Tool\obj\Release\XBXContentTool.mainForm.resources
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\XBX Content Tool\obj\Release\XBXContentTool.Properties.Resources.resources
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\XBX Content Tool\obj\Release\XBX Content Tool.csproj.GenerateResource.Cache
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\XBX Content Tool\obj\Release\XBX Content Tool.exe
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\XBX Content Tool\obj\Release\XBX Content Tool.pdb
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\XBX Content Tool\obj\Release\XBXContentTool.batchForm.resources
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\XBX Content Tool\obj\Release\XBX Content Tool.csprojResolveAssemblyReference.cache
+C:\Users\Nate\Documents\Visual Studio 2015\Projects\XContSig\XBX Content Tool\bin\Release\XBX Content Tool.exe.config

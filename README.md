@@ -1,6 +1,9 @@
 # XBX Content Tool  
 A tool for "signing" original Xbox content (updates, DLC, demos, cache, etc.)  
   
+  ![Image](https://i.imgur.com/aRrm6ip.png)
+  
+  
 This tool is intended for the following consoles:  
 - Original Xbox (modded)  
 - Xbox 360 (retail/modded)  
